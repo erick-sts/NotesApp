@@ -1,4 +1,4 @@
-# NotesApp# App de Notas
+# App de Notas
 
 Este é um aplicativo de notas desenvolvido para ajudar a organizar e gerenciar suas anotações de forma eficiente. O projeto é dividido em duas partes principais: frontend e backend. O frontend é responsável pela interface do usuário e a interação com o backend, que gerencia a lógica de negócios e o armazenamento de dados.
 
@@ -59,5 +59,3 @@ npm start
 
 ### Licença
 Este projeto está licenciado sob a MIT License.
-
-![Background](assets/background.png)
