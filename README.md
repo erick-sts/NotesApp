@@ -34,16 +34,15 @@ O projeto é organizado da seguinte forma:
    cd backend
    npm install
    
-2. **Configure o Banco de Dados:**
+2. **Configure o Banco de Dados**:
 Certifique-se de que o MySQL está rodando e o banco de dados notasapp está configurado. Atualize as credenciais do banco de dados no arquivo de configuração do backend.
 
 3. **Inicie o Servidor:**
 Execute o comando para iniciar o servidor:
 ```bash
 npm start
+```
 
-
-##
 ### frontend
 
 1. **Instale as dependências:**
@@ -56,6 +55,7 @@ Certifique-se de que o baseURL no axios está configurado para apontar para o se
 Execute o comando para iniciar o servidor de desenvolvimento:
 ```bash
 npm start
+```
 
 ### Licença
 Este projeto está licenciado sob a MIT License.
